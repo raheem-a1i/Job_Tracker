@@ -1,0 +1,109 @@
+nohup: ignoring input
+job_appsDB: PG env vars not found — using in-memory mock DB.
+server started on port 5000
+{
+  company_name: 'reddit',
+  job_role: 'Reddit Mod',
+  notes: '1111',
+  job_salary: '100000',
+  date_applied: '2025-11-02',
+  app_status: 'Applied'
+}
+{
+  company_name: 'Google',
+  job_role: 'Engineer',
+  notes: 'test',
+  job_salary: '100000',
+  date_applied: '2025-11-02',
+  app_status: 'Interviewed'
+}
+{
+  company_name: 'reddit',
+  job_role: 'Engineer',
+  date_applied: '2025-11-02',
+  app_status: 'Applied',
+  notes: '1111',
+  job_salary: '100000'
+}
+Updated application
+{
+  company_name: 'Reddit',
+  job_role: 'Engineer',
+  date_applied: '2025-11-02',
+  app_status: 'Applied',
+  notes: '1111',
+  job_salary: '100000'
+}
+Updated application
+{
+  company_name: 'Meta',
+  job_role: 'Engineer',
+  notes: 'test',
+  job_salary: '100000',
+  date_applied: '2025-11-02',
+  app_status: 'Offer'
+}
+{
+  company_name: 'Meta',
+  job_role: 'Engineer',
+  notes: 'Test',
+  job_salary: '100000',
+  date_applied: '2025-11-02',
+  app_status: 'Offer'
+}
+{
+  company_name: 'Meta',
+  job_role: 'Engineer',
+  date_applied: '2025-11-02',
+  app_status: 'Offer',
+  notes: 'Test',
+  job_salary: '100000'
+}
+Updated application
+{
+  company_name: 'Meta',
+  job_role: 'Engineer',
+  date_applied: '2025-11-02',
+  app_status: 'Offer',
+  notes: 'Test2',
+  job_salary: '100000'
+}
+Updated application
+{
+  company_name: 'Meta',
+  job_role: 'Engineer',
+  date_applied: '2025-11-02',
+  app_status: 'Offer',
+  notes: 'Test',
+  job_salary: '100000'
+}
+Updated application
+{
+  company_name: 'Netflix',
+  job_role: 'Engineer',
+  notes: 'Test',
+  job_salary: '90000',
+  date_applied: '2025-11-02',
+  app_status: 'Interviewed'
+}
+{
+  company_name: 'Netflix',
+  job_role: 'Engineer',
+  date_applied: '2025-11-02',
+  app_status: 'Rejected',
+  status_rejected: '2025-11-02T14:47:31.336Z',
+  notes: 'Test',
+  job_salary: '90000'
+}
+Updated application
+{
+  company_name: 'Netflix',
+  job_role: 'Engineer',
+  date_applied: '2025-11-02',
+  app_status: 'Offer',
+  status_rejected: '2025-11-02T14:47:31.336Z',
+  status_offer: '2025-11-02T14:47:35.691Z',
+  notes: 'Test',
+  job_salary: '90000'
+}
+Updated application
