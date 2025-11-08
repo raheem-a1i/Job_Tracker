@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useState } from "react";
 import UpdateJobs from "./UpdateJobs";
 import StatusCounts from "./StatusCounts";
 import { decodeHTMLEntities } from "./Helper";
